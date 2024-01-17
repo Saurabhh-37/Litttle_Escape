@@ -8,7 +8,7 @@ function Trip() {
   return (
     <div className="trip">
       <h1>Recent Trips</h1>
-      <p>You can discover ubique destinations</p>
+      <p>You can discover unique destinations</p>
 
       <div className="tripcard">
         <TripData
