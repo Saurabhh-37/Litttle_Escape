@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Saurabhh-37.github.io/Little_Escape/public",
+  "homepage": "https://Saurabhh-37.github.io/Little_Escape",
   "name": "travel-website",
   "version": "1.0.0",
   "description": "",
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn start",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
